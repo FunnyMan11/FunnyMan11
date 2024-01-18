@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funnyman11&label=Profile%20views&color=0e75b6&style=flat" alt="funnyman11" /> </p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJiY2I4NzY3bzE0c2NncGR0eGwzb29kMTgwbjVrNzdpNzlkaTF6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funnyman11" alt="funnyman11" /></a> </p>
 
